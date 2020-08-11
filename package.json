@@ -18,7 +18,7 @@
     "jsonwebtoken": "^8.2.1",
     "mysql2": "^1.5.3",
     "nedb": "^1.8.0",
-    "nodemon": "^1.17.5",
+    "nodemon": "^2.0.4",
     "randomstring": "^1.1.5"
   },
   "devDependencies": {
